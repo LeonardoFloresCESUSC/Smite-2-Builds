@@ -2,6 +2,8 @@
 
 Projeto desenvolvido por Leonardo Flores Silveira e Pedro Esmeraldino.
 
+Visite nossa landing page https://sm2builds.vercel.app/page1
+
 Smite 2 Builds é um aplicativo para IOS e Android com a finalidade de:
 
 Cadastrar itens e God's.
